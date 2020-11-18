@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "students": [
+    {"name": "Monika Smith", "registrationNumber": "111111"},
+    {"name": "Tommy Maier", "registrationNumber": "111112"}
 }
